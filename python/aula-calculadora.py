@@ -2,7 +2,7 @@ while True:
     valor1 = int(input())
     
     if valor1 == -1:
-        print('programa_encerrado')
+        print('programa encerrado')
         break
     
     operador = input()
